@@ -1,0 +1,92 @@
+<?php
+class ModelCatalogDownload extends Model {
+	public function addDownload($data) {
+      	$this->db->query("INSERT INTO  @@download SET filename = '" . ES($data['filename']) . "', mask = '" . ES($data['mask']) . "', remaining = " . (int)$data['remaining'] . ", date_added = NOW()");
+
+      	$download_id = $this->db->getLastId(); 
+
+      	foreach ($data['download_description'] as $language_id => $value) {
+        	$this->db->query("INSERT INTO  @@download_description SET download_id = " . (int)$download_id . ", language_id = " . (int)$language_id . ", name = '" . ES($value['name']) . "'");
+      	}	
+	}
+	
+	public function editDownload($download_id, $data) {
+		if (!empty($data['update'])) {
+			$download_info = $this->getDownload($download_id);
+        	
+			if ($download_info) {
+      			$this->db->query("UPDATE  @@order_download SET `filename` = '" . ES($data['filename']) . "', mask = '" . ES($data['mask']) . "', remaining = " . (int)$data['remaining'] . " WHERE `filename` = '" . ES($download_info['filename']) . "'");
+			}
+		}
+		
+        $this->db->query("UPDATE  @@download SET filename = '" . ES($data['filename']) . "', mask = '" . ES($data['mask']) . "', remaining = " . (int)$data['remaining'] . " WHERE download_id = " . (int)$download_id);
+
+      	$this->db->query("DELETE FROM  @@download_description WHERE download_id = " . (int)$download_id);
+
+      	foreach ($data['download_description'] as $language_id => $value) {
+        	$this->db->query("INSERT INTO  @@download_description SET download_id = " . (int)$download_id . ", language_id = " . (int)$language_id . ", name = '" . ES($value['name']) . "'");
+      	}
+	}
+	
+	public function deleteDownload($download_id) {
+      	$this->db->query("DELETE FROM  @@download WHERE download_id = " . (int)$download_id);
+	  	$this->db->query("DELETE FROM  @@download_description WHERE download_id = " . (int)$download_id);	
+	}	
+
+	public function getDownload($download_id) {
+		return $this->db->queryOne("SELECT DISTINCT * FROM  @@download d LEFT JOIN  @@download_description dd ON (d.download_id = dd.download_id) WHERE d.download_id = " . (int)$download_id . " AND dd.language_id = " . C('config_language_id'));
+	}
+
+	public function getDownloads($data = array()) {
+		$sql = "SELECT * FROM  @@download d LEFT JOIN  @@download_description dd ON (d.download_id = dd.download_id) WHERE dd.language_id = " . (int)C('config_language_id');
+	
+		if (!empty($data['filter_name'])) {
+			$sql .= " AND dd.name LIKE '" . ES($data['filter_name']) . "%'";
+		}
+		
+		$sort_data = array(
+			'dd.name',
+			'd.remaining'
+		);
+	
+		if (isset($data['sort']) && in_array($data['sort'], $sort_data)) {
+			$sql .= " ORDER BY " . $data['sort'];	
+		} else {
+			$sql .= " ORDER BY dd.name";	
+		}
+			
+		if (isset($data['order']) && ($data['order'] == 'DESC')) {
+			$sql .= " DESC";
+		} else {
+			$sql .= " ASC";
+		}
+		
+		if (isset($data['start']) || isset($data['limit'])) {
+			if ($data['start'] < 0) $data['start'] = 0;
+			if ($data['limit'] < 1) $data['limit'] = 20;
+			
+			$sql .= " LIMIT " . (int)$data['start'] . "," . (int)$data['limit'];
+		}
+
+		$query = $this->db->query($sql);
+	
+		return $query->rows;
+	}
+	
+	public function getDownloadDescriptions($download_id) {
+		$download_description_data = array();
+		
+		$query = $this->db->query("SELECT * FROM  @@download_description WHERE download_id = " . (int)$download_id);
+		
+		foreach ($query->rows as $result) {
+			$download_description_data[$result['language_id']] = array('name' => $result['name']);
+		}
+		
+		return $download_description_data;
+	}
+	
+	public function getTotalDownloads() {
+      	return $this->db->queryOne("SELECT COUNT(*) AS total FROM  @@download");
+	}	
+}
+?>

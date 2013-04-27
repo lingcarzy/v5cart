@@ -1,0 +1,15 @@
+<?php return array (
+  'address_id' => 'int(11)',
+  'customer_id' => 'int(11)',
+  'firstname' => 'varchar(32)',
+  'lastname' => 'varchar(32)',
+  'company' => 'varchar(32)',
+  'company_id' => 'varchar(32)',
+  'tax_id' => 'varchar(32)',
+  'address_1' => 'varchar(128)',
+  'address_2' => 'varchar(128)',
+  'city' => 'varchar(128)',
+  'postcode' => 'varchar(10)',
+  'country_id' => 'int(11)',
+  'zone_id' => 'int(11)',
+); ?>

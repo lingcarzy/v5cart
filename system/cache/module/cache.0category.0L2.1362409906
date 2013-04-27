@@ -1,0 +1,122 @@
+<div class="box">
+  <div class="box-heading">Categories</div>
+  <div class="box-content">
+    <div class="box-category">
+       <ul>
+                <li>
+                    <a href="category-20/" class="active">Desktop PC</a>
+                              <ul>
+                        <li>
+                            <a href="category-26/"> - PC</a>
+                          </li>
+                        <li>
+                            <a href="category-27/"> - Mac</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="category-18/">Laptops &amp; Notebooks</a>
+                              <ul>
+                        <li>
+                            <a href="category-46/"> - Macs</a>
+                          </li>
+                        <li>
+                            <a href="category-45/"> - Windows</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="category-25/">Components</a>
+                              <ul>
+                        <li>
+                            <a href="category-29/"> - Mice and Trackballs</a>
+                          </li>
+                        <li>
+                            <a href="category-28/"> - Monitors</a>
+                          </li>
+                        <li>
+                            <a href="category-30/"> - Printers</a>
+                          </li>
+                        <li>
+                            <a href="category-31/"> - Scanners</a>
+                          </li>
+                        <li>
+                            <a href="category-32/"> - Web Cameras</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="category-57/">Tablets</a>
+                            </li>
+                <li>
+                    <a href="category-17/">Software</a>
+                            </li>
+                <li>
+                    <a href="category-24/">Phones &amp; PDAs</a>
+                            </li>
+                <li>
+                    <a href="category-33/">Cameras</a>
+                            </li>
+                <li>
+                    <a href="category-34/">MP3 Players</a>
+                              <ul>
+                        <li>
+                            <a href="category-43/"> - test 11</a>
+                          </li>
+                        <li>
+                            <a href="category-44/"> - test 12</a>
+                          </li>
+                        <li>
+                            <a href="category-47/"> - test 15</a>
+                          </li>
+                        <li>
+                            <a href="category-48/"> - test 16</a>
+                          </li>
+                        <li>
+                            <a href="category-49/"> - test 17</a>
+                          </li>
+                        <li>
+                            <a href="category-50/"> - test 18</a>
+                          </li>
+                        <li>
+                            <a href="category-51/"> - test 19</a>
+                          </li>
+                        <li>
+                            <a href="category-52/"> - test 20</a>
+                          </li>
+                        <li>
+                            <a href="category-53/"> - test 21</a>
+                          </li>
+                        <li>
+                            <a href="category-54/"> - test 22</a>
+                          </li>
+                        <li>
+                            <a href="category-55/"> - test 23</a>
+                          </li>
+                        <li>
+                            <a href="category-56/"> - test 24</a>
+                          </li>
+                        <li>
+                            <a href="category-38/"> - test 4</a>
+                          </li>
+                        <li>
+                            <a href="category-37/"> - test 5</a>
+                          </li>
+                        <li>
+                            <a href="category-39/"> - test 6</a>
+                          </li>
+                        <li>
+                            <a href="category-40/"> - test 7</a>
+                          </li>
+                        <li>
+                            <a href="category-41/"> - test 8</a>
+                          </li>
+                        <li>
+                            <a href="category-42/"> - test 9</a>
+                          </li>
+                      </ul>
+                  </li>
+              </ul>
+    </div>
+  </div>
+</div>

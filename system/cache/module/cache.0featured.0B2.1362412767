@@ -1,0 +1,41 @@
+
+<h1>Featured</h1>
+<div class="category-products">
+	    <div class="category-product">
+		 		       			 <div class="image"><a href="product-43.html"><img src="http://localhost/v5cart/image/cache/data/demo/macbook_1-80x80.jpg" alt="MacBook" /></a></div>
+       			        			 <div class="name"><a href="product-43.html">MacBook</a></div>
+        		        		<div class="price">
+          		          		$500.00          		        		</div>
+        		        		        		<div class="cart"><input type="button" value="Add to Cart" onclick="addToCart('43');" class="button" /></div>
+      			</div>	
+          <div class="category-product">
+		 		       			 <div class="image"><a href="product-40.html"><img src="http://localhost/v5cart/image/cache/data/demo/iphone_1-80x80.jpg" alt="iPhone" /></a></div>
+       			        			 <div class="name"><a href="product-40.html">iPhone</a></div>
+        		        		<div class="price">
+          		          		$101.00          		        		</div>
+        		        		        		<div class="cart"><input type="button" value="Add to Cart" onclick="addToCart('40');" class="button" /></div>
+      			</div>	
+          <div class="category-product">
+		 		       			 <div class="image"><a href="product-42.html"><img src="http://localhost/v5cart/image/cache/data/demo/apple_cinema_30-80x80.jpg" alt="Apple Cinema 30&quot;" /></a></div>
+       			        			 <div class="name"><a href="product-42.html">Apple Cinema 30&quot;</a></div>
+        		        		<div class="price">
+          		          		$100.00          		        		</div>
+        		        		        		<div class="rating"><img src="catalog/view/theme/default/image/stars-5.png" alt="featured_text_reviews" /></div>
+        		        		<div class="cart"><input type="button" value="Add to Cart" onclick="addToCart('42');" class="button" /></div>
+      			</div>	
+          <div class="category-product">
+		 		       			 <div class="image"><a href="product-49.html"><img src="http://localhost/v5cart/image/cache/data/demo/samsung_tab_1-80x80.jpg" alt="Samsung Galaxy Tab 10.1" /></a></div>
+       			        			 <div class="name"><a href="product-49.html">Samsung Galaxy Tab 10.1</a></div>
+        		        		<div class="price">
+          		          		$199.99          		        		</div>
+        		        		        		<div class="cart"><input type="button" value="Add to Cart" onclick="addToCart('49');" class="button" /></div>
+      			</div>	
+          <div class="category-product">
+		 		       			 <div class="image"><a href="product-46.html"><img src="http://localhost/v5cart/image/cache/data/demo/sony_vaio_1-80x80.jpg" alt="Sony VAIO" /></a></div>
+       			        			 <div class="name"><a href="product-46.html">Sony VAIO</a></div>
+        		        		<div class="price">
+          		          		$1,000.00          		        		</div>
+        		        		        		<div class="cart"><input type="button" value="Add to Cart" onclick="addToCart('46');" class="button" /></div>
+      			</div>	
+      </div>
+

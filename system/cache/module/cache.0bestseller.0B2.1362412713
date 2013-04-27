@@ -1,0 +1,14 @@
+<div class="box">
+  <div class="box-heading">Bestsellers</div>
+  <div class="box-content">
+    <div class="bestbox-product">
+            <div>
+                <div class="image"><a href="product-40.html"><img src="http://localhost/v5cart/image/cache/data/demo/iphone_1-80x80.jpg" alt="iPhone" /></a></div>
+                <div class="name"><a href="product-40.html">iPhone</a></div>
+                <div class="price">
+                    $101.00                  </div>
+                        <div class="cart"><a onclick="addToCart('40');" class="buttonlink"><span>Add to Cart</span></a></div>
+      </div>
+          </div>
+  </div>
+</div>

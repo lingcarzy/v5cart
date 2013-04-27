@@ -1,0 +1,552 @@
+2013-03-07 15:20:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=tool/error_log&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:20:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=tool/error_log&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:20:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=setting/seo_url&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:20:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=setting/seo_url&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:03 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/paypal_express&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:03 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/paypal_express&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:12 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/paypal_express/payment&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:12 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/paypal_express/payment&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:14 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/paypal_express/error&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:14 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/paypal_express/error&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:20 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=tool/backup&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:20 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=tool/backup&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:22 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=tool/export&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:22 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=tool/export&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:28 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/language&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:28 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/language&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/currency&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/currency&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:32 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/stock_status&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:32 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/stock_status&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:34 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/order_status&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:34 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/order_status&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:39 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/return_status&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:39 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/return_status&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:41 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/return_action&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:41 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/return_action&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:43 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/return_reason&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:43 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/return_reason&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/carrier&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/carrier&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:47 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/country&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:47 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/country&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/zone&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/zone&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:54 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/geo_zone&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:21:54 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/geo_zone&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/weight_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/weight_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:46 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/length_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:46 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/length_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:49 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/tax_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:49 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/tax_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/tax_rate&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/tax_rate&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:52 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/length_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:52 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/length_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:55 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/weight_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:55 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/weight_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/tax_rate&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/tax_rate&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:59 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/tax_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:22:59 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/tax_class&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:08 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/sale_order&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:08 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/sale_order&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:10 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/sale_tax&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:10 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/sale_tax&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:12 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/sale_shipping&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:12 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/sale_shipping&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:13 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/sale_return&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:13 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/sale_return&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:15 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/sale_coupon&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:15 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/sale_coupon&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:18 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/product_viewed&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:18 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/product_viewed&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:20 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/product_purchased&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:20 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/product_purchased&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:23 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/customer_online&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:23 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/customer_online&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:24 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/customer_order&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:24 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/customer_order&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:25 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/customer_reward&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:25 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/customer_reward&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=report/customer_credit&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=report/customer_credit&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:54 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=extension/module&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:54 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=extension/module&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:56 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=extension/shipping&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:56 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=extension/shipping&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=extension/payment&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=extension/payment&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:59 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=extension/total&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:23:59 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=extension/total&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:00 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=extension/feed&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:00 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=extension/feed&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:01 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=tool/livechat&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:01 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=tool/livechat&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:05 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/order&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:05 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/order&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:07 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/order_basket&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:07 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/order_basket&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:09 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/return&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:09 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/return&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:12 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/customer&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:12 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/customer&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:13 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/customer_group&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:13 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/customer_group&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:14 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/customer_blacklist&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:14 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/customer_blacklist&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/affiliate&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/affiliate&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:17 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/coupon&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:17 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/coupon&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:21 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/voucher&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:21 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/voucher&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:22 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/voucher_theme&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:22 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/voucher_theme&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:24 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=sale/contact&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:24:24 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=sale/contact&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:26:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=extension/module&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:26:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=extension/module&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:34:52 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:34:52 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:35:35 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:35:35 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:36:02 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:36:02 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:36:05 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:36:05 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:41:39 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:41:39 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:42:23 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:42:23 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:43:32 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:43:32 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:46:03 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:46:03 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:46:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:46:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:46:26 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:46:26 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:48:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:48:57 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:50:51 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:50:51 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:51:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:51:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:54:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:54:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:56:48 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:56:48 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:57:13 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:57:13 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:59:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 15:59:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:00:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:00:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:01:37 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:01:37 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:03:07 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:03:07 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:04:35 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:04:35 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:06:49 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:06:49 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:06:58 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=catalog/download&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:06:58 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=catalog/download&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:07:15 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:07:15 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:08:06 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:08:06 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:08:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:08:50 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:09:56 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:09:56 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:10:42 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:10:42 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:11:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:11:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:12:28 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:12:28 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:14:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-07 16:14:16 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=351ffb83dae5e5e3592d4e2edd2ed4dd
+
+2013-03-09 14:34:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/logout&amp;token=6558ccfd62fb4ab6696c527845d3071c
+
+2013-03-09 14:34:45 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/logout&amp;token=6558ccfd62fb4ab6696c527845d3071c
+
+2013-03-09 14:34:48 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/login
+
+2013-03-09 14:34:48 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/login
+
+2013-03-09 14:35:03 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/home&amp;token=ea9c4c959fc5e3e7b5712f886baa3cb1
+
+2013-03-09 14:35:03 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/home&amp;token=ea9c4c959fc5e3e7b5712f886baa3cb1
+
+2013-03-09 14:35:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=localisation/order_status&amp;token=ea9c4c959fc5e3e7b5712f886baa3cb1
+
+2013-03-09 14:35:31 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=localisation/order_status&amp;token=ea9c4c959fc5e3e7b5712f886baa3cb1
+
+2013-03-09 14:35:41 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/login
+
+2013-03-09 14:35:41 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/login
+
+2013-03-09 14:37:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 38
+/v5cart/admin/index.php?route=common/login
+
+2013-03-09 14:37:27 - PHP Notice:  Undefined index: text_confirm in D:\xampp\htdocs\v5cart\admin\view\template\common\header.tpl on line 47
+/v5cart/admin/index.php?route=common/login
+

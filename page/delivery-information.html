@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Delivery Information - Your Store</title>
+<base href="http://localhost/fastopencart/" />
+<link href="http://localhost/fastopencart/image/data/cart.png" rel="icon" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+</head>
+<body>
+<div id="container">
+<div id="header">
+    <div id="logo"><a href="http://localhost/fastopencart/"><img src="http://localhost/fastopencart/image/data/logo.png" title="Your Store" alt="Your Store" /></a></div>
+    
+<script type="text/javascript"><!--
+$('.switcher').bind('click', function() {
+	$(this).find('.option').slideToggle('fast');
+});
+$('.switcher').bind('mouseleave', function() {
+	$(this).find('.option').slideUp('fast');
+}); 
+//--></script>
+  <form action="http://localhost/fastopencart/module/currency" method="post" enctype="multipart/form-data">
+  <div id="currency">
+                <a title="Pound Sterling" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $(this).parent().parent().submit();">£</a>
+                        <a title="US Dollar"><b>$</b></a>
+                <input type="hidden" name="currency_code" value="" />
+    <input type="hidden" name="redirect" value="http://localhost/fastopencart/page/index?page_id=6" />
+  </div>
+</form>
+  <div id="cart">
+  <div class="heading">
+    <h4>Shopping Cart</h4>
+    <a><span id="cart-total">0 item(s) - $0.00</span></a></div>
+  <div class="content">
+        <div class="empty">Your shopping cart is empty!</div>
+      </div>
+</div>  <div id="search">
+    <div class="button-search"></div>
+        <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';" />
+      </div>
+  <div id="welcome">
+        Welcome visitor you can <a href="http://localhost/fastopencart/account/login">login</a> or <a href="http://localhost/fastopencart/account/register">create an account</a>.      </div>
+  <div class="links"><a href="http://localhost/fastopencart/">Home</a><a href="http://localhost/fastopencart/account/wishlist" id="wishlist-total">Wish List (0)</a><a href="http://localhost/fastopencart/account/account">My Account</a><a href="http://localhost/fastopencart/checkout/cart">Shopping Cart</a><a href="http://localhost/fastopencart/checkout/checkout">Checkout</a></div>
+</div>
+<div id="menu">
+  <ul>
+        <li><a href="category-20/">Desktops</a>
+            <div>
+		<ul>
+        				<li><a href="category-26/">PC</a></li>
+						<li><a href="category-27/">Mac</a></li>
+				</ul>
+      </div>
+          </li>
+        <li><a href="category-18/">Laptops &amp; Notebooks</a>
+            <div>
+		<ul>
+        				<li><a href="category-46/">Macs</a></li>
+						<li><a href="category-45/">Windows</a></li>
+				</ul>
+      </div>
+          </li>
+        <li><a href="category-25/">Components</a>
+            <div>
+		<ul>
+        				<li><a href="category-29/">Mice and Trackballs</a></li>
+						<li><a href="category-28/">Monitors</a></li>
+						<li><a href="category-30/">Printers</a></li>
+						<li><a href="category-31/">Scanners</a></li>
+						<li><a href="category-32/">Web Cameras</a></li>
+				</ul>
+      </div>
+          </li>
+        <li><a href="category-57/">Tablets</a>
+          </li>
+        <li><a href="category-17/">Software</a>
+          </li>
+        <li><a href="category-24/">Phones &amp; PDAs</a>
+          </li>
+        <li><a href="category-33/">Cameras</a>
+          </li>
+        <li><a href="category-34/">MP3 Players</a>
+            <div>
+		<ul>
+        				<li><a href="category-43/">test 11</a></li>
+						<li><a href="category-44/">test 12</a></li>
+						<li><a href="category-47/">test 15</a></li>
+						<li><a href="category-48/">test 16</a></li>
+						<li><a href="category-49/">test 17</a></li>
+						</ul><ul>
+				<li><a href="category-50/">test 18</a></li>
+						<li><a href="category-51/">test 19</a></li>
+						<li><a href="category-52/">test 20</a></li>
+						<li><a href="category-53/">test 21</a></li>
+						<li><a href="category-54/">test 22</a></li>
+						</ul><ul>
+				<li><a href="category-55/">test 23</a></li>
+						<li><a href="category-56/">test 24</a></li>
+						<li><a href="category-38/">test 4</a></li>
+						<li><a href="category-37/">test 5</a></li>
+						<li><a href="category-39/">test 6</a></li>
+						</ul><ul>
+				<li><a href="category-40/">test 7</a></li>
+						<li><a href="category-41/">test 8</a></li>
+						<li><a href="category-42/">test 9</a></li>
+				</ul>
+      </div>
+          </li>
+      </ul>
+</div>
+<div id="notification"></div>
+ 
+<div id="content">  <div class="breadcrumb">
+        <a href="http://localhost/fastopencart/">Home</a>
+         &raquo; <a href="page/delivery-information.html">Delivery Information</a>
+      </div>
+  <h1>Delivery Information</h1>
+  <p>
+	Delivery Information</p>
+  <div class="buttons">
+    <div class="right"><a href="http://localhost/fastopencart/" class="button">Continue</a></div>
+  </div>
+  </div>
+<div id="footer">
+  <div id="powered">
+	  <ul>
+	 
+	      <li><a href="http://localhost/fastopencart/product/special">Specials</a></li>
+
+	   <li><a href="http://localhost/fastopencart/affiliate/account">Affiliates</a></li>
+ 	  <li><a href="http://localhost/fastopencart/account/voucher">Gift Vouchers</a></li> 
+	   <li><a href="http://localhost/fastopencart/product/manufacturer">Brands</a></li>
+	   
+		  <li><a href="http://localhost/fastopencart/account/return/insert">Returns</a></li> 
+	     <li><a href="http://localhost/fastopencart/page/sitemap">Site Map</a></li>
+	     <li class="login-logout"><a href="http://localhost/fastopencart/page/contact">Contact Us</a></li>
+	  </ul>
+  	</div>
+    <div class="copywrite">Your Store &copy; 2013, Powered By <a href="http://www.opencart.com">OpenCartX</a> - <b>Total 1 queries</b></div>
+</div>
+<!-- 
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donatation.
+Please donate via PayPal to donate@opencart.com
+//-->
+</div>
+</body></html>

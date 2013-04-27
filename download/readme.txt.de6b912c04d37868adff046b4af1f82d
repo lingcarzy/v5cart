@@ -1,0 +1,67 @@
+集成插件：
+
+1、Export/Import
+
+修改：
+
+1、产品图片上传支持zip打包（需unzip支持）
+2、产品管理： 按分类/供应商过滤产品、产品图片可直接填图片名称
+3、Specials管理
+4、Supplier管理
+5、增加产品组功能
+6、category,information,product增加seo_url字段，自定义URL。
+		category:
+			{seo_url}-c{ID}/
+			
+		product:
+			{seo_url}-p{ID}.html
+		相关函数：product_url();
+		
+		information:
+			/help/{seo_url}.html -- 生成静态HTML
+			
+		其他：
+			/category/controller[?a=b]
+			/category/controller/action[?a=b]
+			
+7、缓存
+
+8、Paypal Express支付
+	
+	表：paypal_express，paypal_express_payment，paypal_express_error
+	
+9、订单、发货管理
+
+	订单增加字段：
+		ref_order_id -- 关联订单号
+		purchase_id -- 采购单ID
+		remark - 备注
+		
+		paypal express相关字段：
+		pp_payer_status
+		pp_transaction_id
+		pp_payment_type
+		pp_fee_amt
+		pp_payment_status
+	
+	order_product增加字段：
+		shipped_qty  -- 已发货数量
+		oos - 产品状态
+		remark - 备注
+	
+	发货记录表：order_shipping_history
+	
+	异常处理：exception，exception_history，exception_type
+	
+	采购记录：purchase_list，purchase_history
+
+
+10、支付流程修改
+
+	去掉了payment address,默认同shipping address
+	
+11、catalog模版和性能优化
+
+12、全局折扣设置
+
+http://pan.baidu.com/share/link?shareid=159506&uk=2669933642

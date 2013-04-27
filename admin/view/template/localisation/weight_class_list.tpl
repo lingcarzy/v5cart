@@ -1,0 +1,72 @@
+<?php echo $header; ?>
+<div id="content">
+  <div class="breadcrumb">
+    <?php echo bread_crumbs(); ?>
+  </div>
+  <?php if (isset($error_warning)) { ?>
+  <div class="warning"><?php echo $error_warning; ?></div>
+  <?php } ?>
+  <?php if ($success) { ?>
+  <div class="success"><?php echo $success; ?></div>
+  <?php } ?>
+  <div class="box">
+    <div class="heading">
+      <h1><img src="view/image/shipping.png" alt="" /> <?php echo $_['heading_title']; ?></h1>
+      <div class="buttons">
+	  <a href="<?php echo  UA('localisation/weight_class/insert'); ?>" class="button"><?php echo $_['button_insert']; ?></a>
+	  <a onclick="$('form').submit();" class="button"><?php echo $_['button_delete']; ?></a></div>
+    </div>
+    <div class="content">
+      <form action="<?php echo UA('localisation/weight_class/delete'); ?>" method="post" enctype="multipart/form-data" id="form">
+        <table class="list">
+          <thead>
+            <tr>
+              <td width="1" style="text-align: center;"><input type="checkbox" onclick="$('input[name*=\'selected\']').attr('checked', this.checked);" /></td>
+              <td class="left"><?php if ($sort == 'title') { ?>
+                <a href="<?php echo $sort_title; ?>" class="<?php echo $order; ?>"><?php echo $_['column_title']; ?></a>
+                <?php } else { ?>
+                <a href="<?php echo $sort_title; ?>"><?php echo $_['column_title']; ?></a>
+                <?php } ?></td>
+              <td class="left"><?php if ($sort == 'unit') { ?>
+                <a href="<?php echo $sort_unit; ?>" class="<?php echo $order; ?>"><?php echo $_['column_unit']; ?></a>
+                <?php } else { ?>
+                <a href="<?php echo $sort_unit; ?>"><?php echo $_['column_unit']; ?></a>
+                <?php } ?></td>
+              <td class="right"><?php if ($sort == 'value') { ?>
+                <a href="<?php echo $sort_value; ?>" class="<?php echo $order; ?>"><?php echo $_['column_value']; ?></a>
+                <?php } else { ?>
+                <a href="<?php echo $sort_value; ?>"><?php echo $_['column_value']; ?></a>
+                <?php } ?></td>
+              <td class="right"><?php echo $_['column_action']; ?></td>
+            </tr>
+          </thead>
+          <tbody>
+            <?php if ($weight_classes) { ?>
+            <?php foreach ($weight_classes as $weight_class) { ?>
+            <tr onmouseover="this.className='on';" onmouseout="this.className='';">
+              <td style="text-align: center;"><?php if ($weight_class['selected']) { ?>
+                <input type="checkbox" name="selected[]" value="<?php echo $weight_class['weight_class_id']; ?>" checked="checked" />
+                <?php } else { ?>
+                <input type="checkbox" name="selected[]" value="<?php echo $weight_class['weight_class_id']; ?>" />
+                <?php } ?></td>
+              <td class="left"><?php echo $weight_class['title']; ?></td>
+              <td class="left"><?php echo $weight_class['unit']; ?></td>
+              <td class="right"><?php echo $weight_class['value']; ?></td>
+              <td class="right"><?php foreach ($weight_class['action'] as $action) { ?>
+                [ <a href="<?php echo $action['href']; ?>"><?php echo $action['text']; ?></a> ]
+                <?php } ?></td>
+            </tr>
+            <?php } ?>
+            <?php } else { ?>
+            <tr>
+              <td class="center" colspan="5"><?php echo $_['text_no_results']; ?></td>
+            </tr>
+            <?php } ?>
+          </tbody>
+        </table>
+      </form>
+      <div class="pagination"><?php echo $pagination; ?></div>
+    </div>
+  </div>
+</div>
+<?php echo $footer; ?>

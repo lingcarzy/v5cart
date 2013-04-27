@@ -1,0 +1,92 @@
+/* God I hate Microsoft! */
+#header #cart {
+	width: 300px;
+}
+#header #cart .heading {
+	position: relative;
+	right: 0px;
+	margin-right: 0px;
+}
+#header #cart .content {
+	
+}
+#header #search {
+	position: inherit;
+	float: right;
+}
+#header .button-search {
+	top: 2px;
+}
+#header #search input {
+	  padding: 2px 1px 1px 4px;
+	height: 19px;
+	width:190px;
+	margin-top:1px;
+}
+/* menu */
+#menu ul li {
+	position: relative;
+}
+#menu ul li div {
+	z-index: 5;
+}
+#menu ul li.active div {
+	display: block;
+}
+.success, .warning, .attention, .information {
+	position: relative;
+}
+.success .close, .warning .close, .attention .close, .information .close {
+	position: absolute;
+	right: 10px;
+}
+.box-product > div {
+	display: inline;
+}
+.product-grid > div {
+	display: inline;
+}
+/* button */
+.prduct-info a.button span {
+	line-height: 12px;
+	display: block;
+}
+
+
+
+.category-product {
+  
+    display: inline;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 160px;
+}
+.category-product .name
+{
+
+    margin: 0 0 6px;
+}
+
+.category-product .name a
+{
+ font-size: 12px;
+	 color: #444444;
+    text-decoration: underline;
+}
+.category-product .name a:hover {
+    text-decoration: none;
+}
+.category-product .price {
+    color: #000000;
+    font-size: 13px;
+    font-weight: bold;
+	margin-bottom:5px;
+}
+input.button {
+	padding: 0px 5px;
+}	
+.checkout-heading a { 
+	margin-top:-15px;
+}
