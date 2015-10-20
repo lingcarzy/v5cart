@@ -1,12 +1,12 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/v5cart/');
-define('HTTP_IMAGE', 'http://localhost/v5cart/image/');
-define('HTTP_ADMIN', 'http://localhost/v5cart/admin/');
+define('HTTP_SERVER', 'http://v5cart.local/');
+define('HTTP_IMAGE', 'http://v5cart.local/image/');
+define('HTTP_ADMIN', 'http://v5cart.local/admin/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/v5cart/');
-define('HTTPS_IMAGE', 'http://localhost/v5cart/image/');
+define('HTTPS_SERVER', 'http://v5cart.local/');
+define('HTTPS_IMAGE', 'http://v5cart.local/image/');
 
 // DIR
 define('DIR_APPLICATION', 'D:/xampp/htdocs/v5cart/catalog/');
